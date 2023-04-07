@@ -36,7 +36,7 @@ Contributing
 This is a personal portfolio project created for fun, and contributions are not currently accepted. However, you are welcome to use the code as per the provided license and customize it for your own needs.
 
 License
-This project is open-source and available under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
+This project is open-source and available. You are free to use, modify, and distribute the code as per the terms of the license.
 
 Contact
 If you have any questions or suggestions, feel free to contact me at myo111thant@gmail.com.
